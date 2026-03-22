@@ -36,7 +36,8 @@ The project applies a range of advanced statistical techniques, including:
 
 ## Project Structure
 - `report.pdf`: full analysis and results
-- `code/`: scripts used for data preprocessing and analysis (if included)
+- `RQ1.pdf`, `RQ2.pdf`, `RQ3.pdf`: scripts used for data preprocessing and analysis (if included)
+- `Final presentation nonparametric.pdf`: final presentation of the project
 
 ## Authors
 - Ester Maiocchi, Marianna Mazza, Arianna Perotti 
